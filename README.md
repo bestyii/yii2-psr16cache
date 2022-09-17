@@ -1,9 +1,9 @@
 # PSR-16 Cache for Yii2
-[![Latest Version](https://img.shields.io/github/release/bestyii/psr16cache.svg?style=flat-square)](https://github.com/bestyii/psr16cache/releases)
+[![Latest Version](https://img.shields.io/github/release/bestyii/yii2-psr16cache.svg?style=flat-square)](https://github.com/bestyii/yii2-psr16cache/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/bestyii/psr16cache.svg?style=flat-square)](https://scrutinizer-ci.com/g/bestyii/psr16cache/code-structure)
-[![Quality Score](https://img.shields.io/scrutinizer/g/bestyii/psr16cache.svg?style=flat-square)](https://scrutinizer-ci.com/g/bestyii/psr16cache)
-[![Total Downloads](https://img.shields.io/packagist/dt/bestyii/psr16cache.svg?style=flat-square)](https://packagist.org/packages/bestyii/psr16cache)
+[![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/bestyii/yii2-psr16cache.svg?style=flat-square)](https://scrutinizer-ci.com/g/bestyii/yii2-psr16cache/code-structure)
+[![Quality Score](https://img.shields.io/scrutinizer/g/bestyii/yii2-psr16cache.svg?style=flat-square)](https://scrutinizer-ci.com/g/bestyii/yii2-psr16cache)
+[![Total Downloads](https://img.shields.io/packagist/dt/bestyii/yii2-psr16cache.svg?style=flat-square)](https://packagist.org/packages/bestyii/yii2-psr16cache)
 
 This package provides simple mechanism base PSR-16 Simple Cache for Yii2.
 
