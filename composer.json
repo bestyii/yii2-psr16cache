@@ -1,0 +1,31 @@
+{
+  "name": "bestyii/yii2-psr16cache",
+  "description": "PSR-16 Cache for Yii2",
+  "type": "yii2-extension",
+  "keywords": [
+    "yii2",
+    "bestyii.com",
+    "extension",
+    "psr16",
+    "psr-16",
+    "Simple Cache",
+    "cache"
+  ],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "ezsky",
+      "email": "ez@bestyii.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "psr/simple-cache": "^1.0",
+    "yiisoft/yii2": "^2.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "bestyii\\psr16cache\\": "src"
+    }
+  }
+}

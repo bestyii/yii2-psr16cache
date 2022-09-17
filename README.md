@@ -1,4 +1,3 @@
-
 # PSR-16 Cache for Yii2
 [![Latest Version](https://img.shields.io/github/release/bestyii/psr16cache.svg?style=flat-square)](https://github.com/bestyii/psr16cache/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
@@ -27,7 +26,7 @@ Define it as a component in your plugin
 ```php 
 'components' => [
     'psr16cache' => [
-        'class' => bestyii\psr16cache\SimpleAdapterCache::class
+        'class' => bestyii\psr16cache\SimpleCacheAdapter::class
      ]
 ]
 ```
@@ -36,8 +35,8 @@ Define it as a component in your plugin
 ## Credits
 
 - [PSR-16 Cache for Craft CMS](https://github.com/flipboxfactory/craft-psr16)
-- [devonliu02/psr16cache](https://github.com/devonliu02/psr16cache)
+- [devonliu02/psr16cache](https://github.com/devonliu02/yii2-simple-cache-adapter)
 
 ## License
 
-The MIT License (MIT). Please see [License File](https://github.com/bestyii/yii2-psr16cache/blob/master/LICENSE) for more information.{},
+The BSD 3-Clause License. Please see [License File](https://github.com/bestyii/yii2-psr16cache/blob/main/LICENSE) for more information.
